@@ -1,0 +1,63 @@
+.card {
+    border-radius: 16px 16px 24px 24px !important;
+}
+
+.card .css-o69gx8-MuiCardMedia-root {
+    padding: 20px;
+}
+
+.card .card-content {
+    display: flex;
+    flex-direction: column;
+    min-height: 193px;
+}
+
+.card .MuiTypography-h5 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 160%;
+    letter-spacing: 0.15px;
+
+    color: #575757;
+
+    margin-bottom: 10px;
+}
+
+.card .MuiTypography-body2 {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 166%;
+    letter-spacing: 0.4px;
+    color: rgba(34, 34, 34, 0.87);
+    flex-grow: 1;
+}
+
+.amount-price {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 11px;
+}
+
+span {
+    display: block;
+}
+
+.amount {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 266%;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: rgba(101, 101, 101, 0.87);
+}
+
+.price {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.073125px;
+    color: rgba(0, 0, 0, 0.87);
+}

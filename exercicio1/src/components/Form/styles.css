@@ -1,0 +1,29 @@
+.inputs-price-amount {
+    display: flex;
+    gap: 24px;
+}
+
+.form-add-product {
+    color: rgba(0, 0, 0, 0.54);
+}
+
+.form-add-product label {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 0.15px;
+}
+
+.form-add-product input {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.15px;
+}
+
+.form-btns {
+    display: flex;
+    gap: 27px;
+    position: absolute;
+    bottom: 35px;
+}
